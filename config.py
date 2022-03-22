@@ -1,2 +1,2 @@
-TOKEN = '5063789518:AAGkkEgruHWob9rYWOeKnY0IUQqk8TCGVG4'
+TOKEN = 'null'
 admin_id = 'null'
